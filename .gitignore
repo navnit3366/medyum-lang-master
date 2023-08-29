@@ -1,0 +1,6 @@
+__pycache__
+*.med
+build
+dist
+*.egg-info
+publish.sh
